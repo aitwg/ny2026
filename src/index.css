@@ -69,7 +69,8 @@ header {
 }
 
 header h1 {
-    font-family: 'Ma Shan Zheng', cursive;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 700;
     /* Fluid typography: matches 3.5rem on desktop, scales down on mobile */
     font-size: clamp(2.5rem, 8vw, 4rem);
     margin-bottom: 0.5rem;
